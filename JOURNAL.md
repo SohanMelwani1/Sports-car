@@ -31,3 +31,19 @@ I first started by re-doing the wheel part of the car since i realized I had mad
 
 **Total time spent: 4 hours 50 minutes**
 
+# Day 3 (15th march) fixing, adding details, wheels, spoiler
+
+Today I started by first making a rim kind of thing around the bottom and place where the wheel was going to go, Then I used loft to make a cut out onto the door part to give it the sports look, I added cutouts to it also to make it realistic then I added the back lights and trunk opener of the car and a headlights at the front of the car too. I added spoiler of the car, once i added it I realized that the side arrow kind of shape was placed in reverse so i went back in time line removed the fillet added spit body feature then changed it, Finally I added wheels this took quite long because I kept getting errors while using pipe feature and combine for the cutout in the wheels, overall it looks really good, I still have to add the part holding the wheels to the car and allowing it to rotate.
+
+<img width="626" height="528" alt="Screenshot 2026-10-15 094122" src="https://github.com/user-attachments/assets/55c969d7-38db-43da-a4d0-43b2380a288c" />
+<img width="889" height="643" alt="Screenshot 2026-10-15 094754" src="https://github.com/user-attachments/assets/e8f83bf3-ff69-451e-b350-50d28e93a020" />
+<img width="1528" height="818" alt="Screenshot 2026-10-15 154934" src="https://github.com/user-attachments/assets/c154db63-5ef3-4a9b-8220-8007381887bd" />
+<img width="366" height="324" alt="Screenshot 2026-10-16 092629" src="https://github.com/user-attachments/assets/f48999c0-bf8d-4588-a578-19b76ac15a49" />
+<img width="1181" height="503" alt="Screenshot 2026-10-16 093343" src="https://github.com/user-attachments/assets/82e74de8-95e0-4537-bc74-6bd894cb6007" />
+<img width="917" height="458" alt="Screenshot 2026-10-16 093504" src="https://github.com/user-attachments/assets/93e8c39b-325e-4300-9a95-a78d1aa63f34" />
+<img width="688" height="634" alt="Screenshot 2026-10-16 093526" src="https://github.com/user-attachments/assets/8bb96585-1af8-4728-9cc5-50b251ed5466" />
+<img width="834" height="781" alt="Screenshot 2026-10-16 093557" src="https://github.com/user-attachments/assets/a6ce0bd7-74d1-4412-ba44-2ecf45f27133" />
+
+**Total hours spent: 5 Hours 25 minutes**
+
+
