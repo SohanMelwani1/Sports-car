@@ -19,7 +19,7 @@ I started with the base geometric structure and then made a sketch from each sid
 
 **Total time spent: 4 hours 15 minutes**
 
-# Day 2 (11th march) defining the structure to make it lesser geometrical and more like a car
+# Day 2 (11th October) defining the structure to make it lesser geometrical and more like a car
 
 I first started by re-doing the wheel part of the car since i realized I had made a mistake to the car so to improve it i removed the small extrude from the side and went back to sketch one and made the cover above the wheels stick out of the top of the car to give it the sports look, but when i made the changes I kept getting errors since that was the base sketch which helped form the others so i had to solve the errors and fix lost parts, then I finally got the part sticking out of the car (wheel). I also added round kind of stuff around the wheel place and fillets to it to make it look more realistic, I have also finished the top part of the car, i need to add some more details to top, but i kept making small errors which i needed to fix to make it look more like a car since i was using the mirror feature to help me speed it up. Right now i know the sides like the door doesn't look organic and more geometrical which it shouldn't be but, I'll improve on it that tmr.
 
@@ -31,7 +31,7 @@ I first started by re-doing the wheel part of the car since i realized I had mad
 
 **Total time spent: 4 hours 50 minutes**
 
-# Day 3 (15th march) fixing, adding details, wheels, spoiler
+# Day 3 (15th October) fixing, adding details, wheels, spoiler
 
 Today I started by first making a rim kind of thing around the bottom and place where the wheel was going to go, Then I used loft to make a cut out onto the door part to give it the sports look, I added cutouts to it also to make it realistic then I added the back lights and trunk opener of the car and a headlights at the front of the car too. I added spoiler of the car, once i added it I realized that the side arrow kind of shape was placed in reverse so i went back in time line removed the fillet added spit body feature then changed it, Finally I added wheels this took quite long because I kept getting errors while using pipe feature and combine for the cutout in the wheels, overall it looks really good, I still have to add the part holding the wheels to the car and allowing it to rotate.
 
