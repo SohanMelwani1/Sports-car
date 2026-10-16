@@ -44,6 +44,6 @@ Today I started by first making a rim kind of thing around the bottom and place 
 <img width="688" height="634" alt="Screenshot 2026-10-16 093526" src="https://github.com/user-attachments/assets/8bb96585-1af8-4728-9cc5-50b251ed5466" />
 <img width="834" height="781" alt="Screenshot 2026-10-16 093557" src="https://github.com/user-attachments/assets/a6ce0bd7-74d1-4412-ba44-2ecf45f27133" />
 
-**Total hours spent: 5 Hours 25 minutes**
+**Total time spent: 5 Hours 25 minutes**
 
 
