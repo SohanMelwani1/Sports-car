@@ -36,6 +36,12 @@ Bill Of Material (BOM)
 
 ___
 
+This is my printables page
+
+https://www.printables.com/model/1879363-sports-car
+
+___
+
 The final print should look like this:
 
 <img width="1293" height="746" alt="Screenshot 2026-10-16 235536" src="https://github.com/user-attachments/assets/d44a934d-1996-4ffe-9fb3-eec6698a4022" />
