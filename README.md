@@ -1,6 +1,8 @@
 # Sports-car
 A Koenigsegg Inspired car 
 
+<img width="923" height="402" alt="image" src="https://github.com/user-attachments/assets/dd7c591b-8814-459d-b5da-4025396b8fd3" />
+
 ___
 
 Assembly instructions:
