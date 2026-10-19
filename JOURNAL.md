@@ -46,7 +46,7 @@ Today I started by first making a rim kind of thing around the bottom and place 
 
 **Total time spent: 5 Hours 25 minutes**
 
-# October 16: Day3- car colours, wheel holder Printing and assembling
+# October 16: Day4- car colours, wheel holder Printing and assembling
 
 Today I first started by adding the holder of the wheels, it was a simple and clean design, next I added some chamfer to it's and started colouring the car with planes, since it's a non-geometric shape it took a little longer but it worked good, I added a carbon fiber color to the spoiler and front and rim of the car to make it look more luxurious however it's not very visible when i zoom out as my laptop can't handle the tiny details once fully zoomed. I printed the car and assembled it finally, this is how it looks like
 
@@ -56,3 +56,12 @@ Today I first started by adding the holder of the wheels, it was a simple and cl
 <img width="647" height="402" alt="Screenshot 2026-10-16 235549" src="https://github.com/user-attachments/assets/dc31a8db-aebb-40ee-a3ee-d4cac52432ba" />
 
 **Total time spent: 1 Hour 25 minutes**
+
+# October 18: Day5- Readme and BOM
+
+Today I added a BOM and Readme with assembly and clear instructions I also added the reason to why exactly I created this and what I learnt in the readme
+
+<img width="1119" height="640" alt="image" src="https://github.com/user-attachments/assets/5d579b62-f297-43c3-bd18-db99b0230e27" />
+<img width="1097" height="487" alt="image" src="https://github.com/user-attachments/assets/1aefe9ed-44ca-4c69-a19f-545361dfe483" />
+
+**Total time spent: 25 minutes**
