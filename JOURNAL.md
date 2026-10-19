@@ -67,3 +67,11 @@ Today I added a BOM and Readme with assembly and clear instructions I also added
 <img width="1097" height="487" alt="image" src="https://github.com/user-attachments/assets/1aefe9ed-44ca-4c69-a19f-545361dfe483" />
 
 **Total time spent: 25 minutes**
+
+# October 19: Day6- Organizing repo
+
+today I had organized my repo, I added the stl,3mf and f3d files to the repo
+<img width="990" height="437" alt="image" src="https://github.com/user-attachments/assets/e143cfed-575b-4d71-9de1-1b56933d2463" />
+<img width="532" height="496" alt="image" src="https://github.com/user-attachments/assets/19a61599-be2d-4572-92a2-dae1db2bccc4" />
+
+**Total time spent: 10 minutes**
