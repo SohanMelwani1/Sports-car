@@ -34,9 +34,9 @@ ___
 
 Bill Of Material (BOM)
 
-|      BOM       | Material type | Cost (INR) | Cost (USD) |
-|----------------|---------------|------------|------------|
-| Fillament(12g) |     Petg      | 10 rupees  |    $0.11   |
+|      BOM       | Material type | Cost (INR) | Cost (USD) | Link |
+|----------------|---------------|------------|------------|------|
+| Fillament(12g) |     Petg      | 10 rupees  |    $0.11   | https://india.numakers.com/products/petg-hs-filament?variant=43307603984553 |
 
 ___
 
